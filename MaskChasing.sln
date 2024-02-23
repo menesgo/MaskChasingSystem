@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workspace", "Workspace\Workspace.csproj", "{7581A9A6-8891-4DC1-BA9C-874A490DFD9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{69A3BF62-2AD8-4D4A-B321-377254B0043D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{1556F0D2-EF8D-4E23-B1AE-B552B46E4990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7581A9A6-8891-4DC1-BA9C-874A490DFD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7581A9A6-8891-4DC1-BA9C-874A490DFD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7581A9A6-8891-4DC1-BA9C-874A490DFD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7581A9A6-8891-4DC1-BA9C-874A490DFD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A3BF62-2AD8-4D4A-B321-377254B0043D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A3BF62-2AD8-4D4A-B321-377254B0043D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A3BF62-2AD8-4D4A-B321-377254B0043D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A3BF62-2AD8-4D4A-B321-377254B0043D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1556F0D2-EF8D-4E23-B1AE-B552B46E4990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1556F0D2-EF8D-4E23-B1AE-B552B46E4990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1556F0D2-EF8D-4E23-B1AE-B552B46E4990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1556F0D2-EF8D-4E23-B1AE-B552B46E4990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75BE77BB-CBA8-4819-AA1B-806803054719}
+	EndGlobalSection
+EndGlobal
